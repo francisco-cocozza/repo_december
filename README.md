@@ -10,3 +10,5 @@ second change
 a change!
 
 again a change!
+
+skip git clone
